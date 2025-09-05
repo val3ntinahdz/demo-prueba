@@ -1,0 +1,21 @@
+{
+  "name": "demo-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/val3ntinahdz/demo-prueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/val3ntinahdz/demo-prueba/issues"
+  },
+  "homepage": "https://github.com/val3ntinahdz/demo-prueba#readme"
+}
